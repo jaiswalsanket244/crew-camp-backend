@@ -405,3 +405,5 @@ You can also change the webhook settings from that page itself if required.
    through the following video link :->
 
    https://youtu.be/X3Wtjwu0vBI
+
+Build notes: see CHANGELOG
