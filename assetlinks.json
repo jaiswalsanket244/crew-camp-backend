@@ -1,0 +1,12 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.crewcam",
+    "sha256_cert_fingerprints":
+    [
+      "81:F0:2C:B8:EF:B4:FF:C4:BA:74:32:B5:42:97:0D:A3:09:D1:59:C4:83:CA:FE:EA:81:C7:95:18:97:D2:87:0A",
+      "EB:80:8E:64:7C:14:4E:34:15:C2:7D:76:C3:56:67:40:D8:8A:AA:FF:13:34:7E:80:A0:ED:30:28:66:D5:1E:BC"
+    ]
+  }
+}]

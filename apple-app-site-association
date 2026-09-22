@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "372LRKRWWC.com.crewcam.app",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

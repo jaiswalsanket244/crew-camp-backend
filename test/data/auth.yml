@@ -1,0 +1,30 @@
+- users:
+    - _id:
+        $oid: 561d88f5b260cf35147998ca
+      name:
+        first: first
+        last: user
+      email: test@one.com
+      firebaseUid: eU62AymqslPh6BSazQJuDEoHWsf2
+      hasPassword: true
+      subscribedToNewsletter: false
+
+    - _id:
+        $oid: 561d88f5b260cf35147998cb
+      name:
+        first: second
+        last: user
+      email: test@two.com
+      firebaseUid: 5AeaPuFB3sZSWUq40zsO1nyKkCn2
+      hasPassword: true
+      subscribedToNewsletter: false
+
+    - _id:
+        $oid: 561d88f5b260cf35147998cc
+      name:
+        first: third
+        last: user
+      email: test@three.com
+      firebaseUid: Rh98N2KKdbS0vV8pkVW94CUdnfH2
+      hasPassword: true
+      subscribedToNewsletter: false

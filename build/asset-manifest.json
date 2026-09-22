@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd647aa5.css",
+    "main.js": "/static/js/main.fdfeea9f.js",
+    "static/js/453.8cb423df.chunk.js": "/static/js/453.8cb423df.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.7ad8664e412b4761d662e2c8a096b29b.svg",
+    "static/media/CrewCam_Logo.svg": "/static/media/CrewCam_Logo.c8fdc47abc7feba21d77bc7679a6655a.svg",
+    "index.html": "/index.html",
+    "main.dd647aa5.css.map": "/static/css/main.dd647aa5.css.map",
+    "main.fdfeea9f.js.map": "/static/js/main.fdfeea9f.js.map",
+    "453.8cb423df.chunk.js.map": "/static/js/453.8cb423df.chunk.js.map"
+  },
+  "entrypoints": ["static/css/main.dd647aa5.css", "static/js/main.fdfeea9f.js"]
+}
